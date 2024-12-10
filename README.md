@@ -13,7 +13,7 @@ A local server (e.g., XAMPP or WAMP)
 https://github.com/user-attachments/assets/ed2918c6-c248-4d34-81a8-76136368f3a6
 
 # Student Registertion From With Bootstrap 
-<img src="https://github.com/user-attachments/assets/a6eb2f32-cc9c-4b38-82c1-8752cc5ea8f1"heigth=28% width=32%>
+<img src="https://github.com/user-attachments/assets/a6eb2f32-cc9c-4b38-82c1-8752cc5ea8f1"heigth=28 width=32>
 
 VIDEO
 https://github.com/user-attachments/assets/49a6b6f1-fdb0-43ee-9fb3-1b24f4a5e506
