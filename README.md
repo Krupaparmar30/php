@@ -41,10 +41,13 @@ VIDEO
 
 # Ready Student Registertion Form
 
- <img src="https://github.com/user-attachments/assets/17cc79de-2297-4fe3-8a58-327e029c67bf" height=28% width=32%>
-  <img src="https://github.com/user-attachments/assets/187b8a7a-c92e-4bc9-9a4a-037f9ef6c0ac" height=28% width=32%>
- <img src="https://github.com/user-attachments/assets/a633d745-84a2-40c1-983c-ef45094417a9" height=28% width=32%>
+ <img src="https://github.com/user-attachments/assets/17cc79de-2297-4fe3-8a58-327e029c67bf" >
+ <img src="https://github.com/user-attachments/assets/187b8a7a-c92e-4bc9-9a4a-037f9ef6c0ac">
+ <img src="https://github.com/user-attachments/assets/a633d745-84a2-40c1-983c-ef45094417a9">
 
-
+VIDEO
+<div>
+ <video src="" height=28% width=32%>
+</div>
 
 
