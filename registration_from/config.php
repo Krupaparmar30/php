@@ -49,6 +49,20 @@ class Config
        return $res;
     }
 
+
+    public function update($id,$name,$age,$course,$phone)
+    {
+        $query="UPDATE student SET name='$name',age=$age,course='$course',phone=$phone WHERE id=$id";
+        $res=mysqli_query($this->connection,$query);
+        if ($res) {
+            echo "Successfully updated!";
+        } else {
+            echo "Update failed: " . mysqli_error($this->connection);
+        }
+    
+        return $res;
+    }
+
 }
 ?>
 
