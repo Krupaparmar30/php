@@ -84,8 +84,10 @@ Database: MySQL
 API Testing: Postman
 Version Control: Git & GitHub
 
+* USING POST
  <img src="https://github.com/user-attachments/assets/4e9685a1-fc36-47bb-831d-d7d33205de2b" >
  <img src="https://github.com/user-attachments/assets/ad6620bd-6206-4d2c-9a95-3b50f5989c5d">
+* USING GET 
  <img src="https://github.com/user-attachments/assets/1a86f350-f9a9-44ce-a7ca-236bcf72e730">
 
 VIDEO
