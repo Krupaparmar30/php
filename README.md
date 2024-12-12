@@ -34,12 +34,39 @@ A simple, responsive **Student Registration Form** built using **PHP** and **Boo
 
  <img src="https://github.com/user-attachments/assets/a6eb2f32-cc9c-4b38-82c1-8752cc5ea8f1" height=28% width=32%>
 
-
-
 VIDEO
 <div>
  <video src="https://github.com/user-attachments/assets/49a6b6f1-fdb0-43ee-9fb3-1b24f4a5e506" height=28% width=32%>
 </div>
+
+# Ready Student Registertion Form
+Student registration form with CRUD (Create, Read, Update, Delete) functionalities using PHP and MySQL.
+* Basic CRUD for Student Registration
+This project allows you to manage student details such as adding new students, retrieving records, updating details, and deleting entries. It uses PHP and MySQL for database operations.
+* Detailed Registration Form with Printable Preview
+This example not only supports CRUD operations but also provides a printable preview of the student registration details. It uses Bootstrap for a responsive interface.
+* his system includes additional features like student-department mapping and a well-structured CRUD interface.
+* A straightforward student registration portal with full CRUD capabilities, making it easy to manage student details.
+
+Features:
+PHP and MySQL integration.
+
+Features:
+Add, edit, and delete students.
+Manage department data.
+
+
+ <img src="https://github.com/user-attachments/assets/17cc79de-2297-4fe3-8a58-327e029c67bf" >
+ <img src="https://github.com/user-attachments/assets/187b8a7a-c92e-4bc9-9a4a-037f9ef6c0ac">
+ <img src="https://github.com/user-attachments/assets/a633d745-84a2-40c1-983c-ef45094417a9">
+
+VIDEO
+<div>
+ <video src="https://github.com/user-attachments/assets/dd5a7d6b-b33a-4a9e-909d-176d16d5bcf7" height=28% width=32%>
+</div>
+
+
+
 
 
 
