@@ -65,6 +65,13 @@ VIDEO
  <video src="https://github.com/user-attachments/assets/dd5a7d6b-b33a-4a9e-909d-176d16d5bcf7" height=28% width=32%>
 </div>
 
+# INSERT & GET DATA in POSTMEN (API type)
+
+ <img src="https://github.com/user-attachments/assets/4e9685a1-fc36-47bb-831d-d7d33205de2b" >
+ <img src="https://github.com/user-attachments/assets/ad6620bd-6206-4d2c-9a95-3b50f5989c5d">
+ <img src="https://github.com/user-attachments/assets/1a86f350-f9a9-44ce-a7ca-236bcf72e730">
+  <img src="">
+
 
 
 
