@@ -25,13 +25,7 @@ class Config
         $query="INSERT INTO student(name,age,course,phone) VALUES('$name',$age,'$course',$phone)";
        $res= mysqli_query($this->connection,$query);
 
-         if($res)
-        {
-            echo "successfully insert!!";
-        }
-        else{
-            echo "unsuccessfully not insert!!";  
-        }
+      return $res;  
     }
 
     public function fetch()
