@@ -65,6 +65,39 @@ VIDEO
  <video src="https://github.com/user-attachments/assets/dd5a7d6b-b33a-4a9e-909d-176d16d5bcf7" height=28% width=32%>
 </div>
 
+# INSERT & GET DATA in POSTMEN (API type)
+
+* This project is a web-based student registration system developed using PHP. It allows students to register their details, stores the data in a MySQL database, and provides a way to retrieve the data using a REST API.
+* Database Operations:
+Insertion of registration details into a MySQL database.
+Retrieval of student data via an API endpoint.
+
+
+* API Integration:
+Insert API: Allows POST requests to add new students to the database.
+Get API: Allows GET requests to fetch registered student details.
+Postman: Used for API testing (sending POST and GET requests).
+
+* Tools and Technologies
+Backend: PHP (Core PHP with MySQLi)
+Database: MySQL
+API Testing: Postman
+Version Control: Git & GitHub
+
+* USING POST
+ <img src="https://github.com/user-attachments/assets/4e9685a1-fc36-47bb-831d-d7d33205de2b" >
+ <img src="https://github.com/user-attachments/assets/ad6620bd-6206-4d2c-9a95-3b50f5989c5d">
+* USING GET 
+ <img src="https://github.com/user-attachments/assets/1a86f350-f9a9-44ce-a7ca-236bcf72e730">
+
+VIDEO
+<div>
+ <video src="https://github.com/user-attachments/assets/84b54f69-b3b3-4903-b1ef-d8a8d2b18968" height=28% width=32%>
+</div>
+
+
+
+
 
 
 
