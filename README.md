@@ -113,7 +113,7 @@ VIDEO
   Update – Modify an existing student record.<br>
   Delete – Remove a student record from the database.<br>
   
-*Toolkit Description
+* Toolkit Description
   PHP: A server-side scripting language used for handling backend operations like processing forms, interacting with databases, and building APIs.
   
   MySQL: A relational database to store student records.
