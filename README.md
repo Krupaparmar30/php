@@ -107,10 +107,12 @@ VIDEO
   Postman: To test the API endpoints.
 
 * CRUD Operations
-  Create – Add a new student record to the database.
-  Read – Retrieve all student records.
-  Update – Modify an existing student record.
-  Delete – Remove a student record from the database.
+
+  Create – Add a new student record to the database.<br>
+  Read – Retrieve all student records.<br>
+  Update – Modify an existing student record.<br>
+  Delete – Remove a student record from the database.<br>
+  
 *Toolkit Description
   PHP: A server-side scripting language used for handling backend operations like processing forms, interacting with databases, and building APIs.
   
