@@ -96,21 +96,21 @@ VIDEO
 </div>
 
 
-# ALL INSERT,GET,PUT,DELETE IN STUDENT REGISTERTION FORM
+# 👉👉👉ALL INSERT,GET,PUT,DELETE IN STUDENT REGISTERTION FORM
 
-* USING POST<br><br>
+*👉 USING POST<br><br>
  <img src="https://github.com/user-attachments/assets/4e9685a1-fc36-47bb-831d-d7d33205de2b" >
  <img src="https://github.com/user-attachments/assets/ad6620bd-6206-4d2c-9a95-3b50f5989c5d">
-* USING GET<br><br> 
+*👉 USING GET<br><br> 
  <img src="https://github.com/user-attachments/assets/1a86f350-f9a9-44ce-a7ca-236bcf72e730">
-#USING PUT<br><br>
+#👉USING PUT<br><br>
  <img src="https://github.com/user-attachments/assets/608ec73d-5e6f-43bf-af2a-a346ddbcc9ca">
  <img src="https://github.com/user-attachments/assets/c2c89a8c-f884-4ac4-9602-d55d827c7ff9">
-#USING DELETE<br><br>
+#👉USING DELETE<br><br>
  <img src="https://github.com/user-attachments/assets/704b6961-8508-4cce-9659-7b3981ba0e59">
  <img src="https://github.com/user-attachments/assets/8fa3b4bd-6b93-4dc1-a87a-eb811b87dacc"><br><br>
 
-VIDEO
+👉👉👉 VIDEO
 <div>
  <video src="https://github.com/user-attachments/assets/f1bbd4ff-1188-4e34-be48-1d47dc80e2b5" height=28% width=32%>
 </div>
