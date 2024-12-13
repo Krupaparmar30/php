@@ -101,14 +101,25 @@ VIDEO
 
 * This guide outlines the process of creating a Student Registration Form with full CRUD operations (Create, Read, Update, Delete) using PHP and MySQL. Additionally, we'll use Postman to test each endpoint, ensuring they function correctly.
 * Tech Stack
-  Backend: PHP (procedural approach)
-  Database: MySQL
-  Tool for Testing: Postman
+  PHP: Backend logic.
+  MySQL: Database for storing student records.
+  Bootstrap: For creating a responsive front-end.
+  Postman: To test the API endpoints.
+
 * CRUD Operations
   Create – Add a new student record to the database.
   Read – Retrieve all student records.
   Update – Modify an existing student record.
   Delete – Remove a student record from the database.
+*Toolkit Description
+  PHP: A server-side scripting language used for handling backend operations like processing forms, interacting with databases, and building APIs.
+  
+  MySQL: A relational database to store student records.
+  
+  Bootstrap: A CSS framework for creating responsive and modern-looking web pages. It provides pre-built components like forms, tables, buttons, etc.
+  
+  Postman: An API testing tool to send requests (GET, POST, PUT, DELETE) to the server and view the responses.
+  
   
 
 *👉 USING POST<br><br>
