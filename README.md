@@ -98,7 +98,7 @@ VIDEO
 
 # ALL INSERT,GET,PUT,DELETE IN STUDENT REGISTERTION FORM
 
-* USING POST
+* USING POST<br><br>
  <img src="https://github.com/user-attachments/assets/4e9685a1-fc36-47bb-831d-d7d33205de2b" >
  <img src="https://github.com/user-attachments/assets/ad6620bd-6206-4d2c-9a95-3b50f5989c5d">
 * USING GET 
