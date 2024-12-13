@@ -98,6 +98,19 @@ VIDEO
 
 # 👉👉👉ALL INSERT,GET,PUT,DELETE IN STUDENT REGISTERTION FORM
 
+
+* This guide outlines the process of creating a Student Registration Form with full CRUD operations (Create, Read, Update, Delete) using PHP and MySQL. Additionally, we'll use Postman to test each endpoint, ensuring they function correctly.
+* Tech Stack
+  Backend: PHP (procedural approach)
+  Database: MySQL
+  Tool for Testing: Postman
+* CRUD Operations
+  Create – Add a new student record to the database.
+  Read – Retrieve all student records.
+  Update – Modify an existing student record.
+  Delete – Remove a student record from the database.
+  
+
 *👉 USING POST<br><br>
  <img src="https://github.com/user-attachments/assets/4e9685a1-fc36-47bb-831d-d7d33205de2b" >
  <img src="https://github.com/user-attachments/assets/ad6620bd-6206-4d2c-9a95-3b50f5989c5d">
